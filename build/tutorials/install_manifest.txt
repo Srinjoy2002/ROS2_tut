@@ -1,0 +1,15 @@
+/home/srinjoy/ros2tut/install/tutorials/share/ament_index/resource_index/package_run_dependencies/tutorials
+/home/srinjoy/ros2tut/install/tutorials/share/ament_index/resource_index/parent_prefix_path/tutorials
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/environment/ament_prefix_path.sh
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/environment/ament_prefix_path.dsv
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/environment/path.sh
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/environment/path.dsv
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/local_setup.bash
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/local_setup.sh
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/local_setup.zsh
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/local_setup.dsv
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/package.dsv
+/home/srinjoy/ros2tut/install/tutorials/share/ament_index/resource_index/packages/tutorials
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/cmake/tutorialsConfig.cmake
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/cmake/tutorialsConfig-version.cmake
+/home/srinjoy/ros2tut/install/tutorials/share/tutorials/package.xml
